@@ -1,5 +1,6 @@
 # self-balancing-robot
 
+![Self Balancing Robot](/self-balancing-image.jpeg)
 
 
 ## 📌 Overview
