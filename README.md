@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project will give you a overview of implementation of a self balacing robot with the code, schematics and the components used in the project.
 
+This won't be a complete step by step just a rough overview with code.
+
 ## 🎯 Steps
 
 1. Start with basic motor and sensor control.
