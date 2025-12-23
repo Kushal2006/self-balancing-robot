@@ -1,5 +1,7 @@
 # self-balancing-robot
 
+
+
 ## 📌 Overview
 This project will give you a overview of implementation of a self balacing robot with the code, schematics and the components used in the project.
 
@@ -40,6 +42,12 @@ The PID controller consists of:
 2. Integral (I): Eliminates steady-state error  
 3. Derivative (D): Predicts future error and improves stability
 
+## Problems
+
+1. The Arduino IDE may say you that there are 2 "I2Cdev.h" which will not let it compile so just delete the I2Cdev folder from the libraries folder of the arduino ide.
+2.  You may get "INVALID HEADER" problem in the serial monitor which can be solved by chaging the folder of Arduino from documents.
+3.  "WARNING: Failed to communicate with the flash chip, read/write operations will fail. Try checking the chip connections or removing any other hardware connected to IOs.
+Configuring flash size...". This could mean 2 things either your esp32 is dead or just disconnect all the Vcc and Ground connected to the ESP32 or Remove all the wires which are giving output/input.
 
 
 
