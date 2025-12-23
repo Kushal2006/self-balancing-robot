@@ -1,7 +1,6 @@
 # self-balancing-robot
 
-![Self Balancing Robot](/self-balancing-image.jpeg)
-
+<img src="/self-balancing-image.jpeg" style="width:30%;"/>
 
 ## 📌 Overview
 This project will give you a overview of implementation of a self balacing robot with the code, schematics and the components used in the project.
